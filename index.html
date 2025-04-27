@@ -52,5 +52,22 @@
 				<p> Contact me : guillaume(dot)goy(at)unilim(dot)fr</p>
 			</div>
 		</section>
+		<footer>
+			<p id="last-update">Loading...</p>
+			<script>
+			fetch('https://api.github.com/repos/guillaume-goy/guillaume-goy.github.io/commits/main')
+				.then(response => response.json())
+				.then(data => {
+				const commitDate = new Date(data.commit.committer.date);
+				document.getElementById('last-update').textContent = 
+					"Last update: " + commitDate.toDateString();
+				})
+				.catch(error => {
+				console.error('Error fetching commit data:', error);
+				document.getElementById('last-update').textContent = "Last update: unknown";
+				});
+			</script>
+		</footer>
 	</body>
+
 </html>
