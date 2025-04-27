@@ -93,7 +93,7 @@ p {
 
 a:link,
 a:visited {
-    color: lightblue;
+    color: rgba(173, 216, 230, 0.7);
 }
 
 span {
@@ -145,6 +145,6 @@ span {
 }
 
 .name:link {
-    color: lightblue;
+    color: rgba(173, 216, 230, 0.7);
     text-decoration: none;
 }
