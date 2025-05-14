@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://guillaume-goy.github.io/</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/index.html</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/pages/cv.html</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/pages/publications.html</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/pages/talk.html</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/pages/teaching.html</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/data/internship_report.pdf</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/data/lirmm_pres.pdf</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/data/cryptis_days_pres.pdf</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/data/phd_defense_pres.pdf</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/data/cyberalps_pres.pdf</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://guillaume-goy.github.io/data/5conf_NIST_pres.pdf</loc>
+  <lastmod>2025-05-14T11:51:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
